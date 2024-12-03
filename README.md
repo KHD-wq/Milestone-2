@@ -2,7 +2,7 @@
 Codepath Unit 8 Project
 
 GitHub Project board
-[Add screenshot of your Project Board with three milestones visible in this section] 
+![image](https://github.com/user-attachments/assets/e4dba9c5-0ffe-47e1-b516-05b15481a67c)
 
 Issue cards
 [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] 
