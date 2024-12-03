@@ -6,7 +6,8 @@ GitHub Project board
 
 
 Issue cards
-![image](https://github.com/user-attachments/assets/267e14d9-b23e-4b41-95ba-2484ba5a0dce)
+![image](https://github.com/user-attachments/assets/5420afb1-9596-4507-a902-0b346a4dd9b7)
+
 [Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.] 
 Issues worked on this sprint
 List the issues you completed this sprint
