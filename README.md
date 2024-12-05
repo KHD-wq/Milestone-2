@@ -1,6 +1,9 @@
 # Milestone-2
 Codepath Unit 8 Project
 
+Group Members: Group Members: Kasaan Dornelus, Clyde Baidoo, Nickolas Bigelow 
+
+
 GitHub Project board
 ![image](https://github.com/user-attachments/assets/a6983d43-0e00-43c2-a7fc-e166ddf9ae30)
 
