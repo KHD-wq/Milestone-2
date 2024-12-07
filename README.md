@@ -18,3 +18,7 @@ Issues worked on this sprint:
 [X] find a weather forecaster website that uses Api key
 
 [X] utilize Api key to retrieve information from website and display on one screen.
+
+
+
+![20241126_003612](https://github.com/user-attachments/assets/28e30e79-c2a9-4b93-9903-6f3ef8605130)
